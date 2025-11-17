@@ -5,7 +5,7 @@ export const classWorkProductComnent = (products) => {
       : "";
   return `
          <div referrerpolicy="no-referrer"
-      class="w-full max-w-sm bg-white border border-gray-200 rounded-lg shadow-sm dark:bg-gray-800 dark:border-gray-700"
+      class="w-full  max-w-sm bg-white border border-gray-200 rounded-lg shadow-sm dark:bg-gray-800 dark:border-gray-700"
     >
       <a href="#">
         <img
